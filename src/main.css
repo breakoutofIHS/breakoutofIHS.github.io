@@ -77,7 +77,16 @@ body {
 }
 
 .button2 {
-  --color: #ffa260;
-  --hover: #e5ff60;
+  --color: black;
+  --hover: gray;
+}
+
+button {
+  background: none;
+  border: 2px solid;
+  font: inherit;
+  line-height: 1;
+  margin: 0.5em;
+  padding: 1em 2em;
 }
 
