@@ -3,10 +3,10 @@ You made it!
 On this website, there are two text fields. This is where you will enter passwords (case sensitive). Press the button under each text field to submit a password.
 If you get the password right, another box will turn green.
 There are 5 clues in each section. You can solve both sections simultaneously. The passwords you find will lead you to the rest of the clues.
-You already solved the first problem: getting to this site. Now you need to solve the other 9.
+You already solved the first problem for the top row: getting to this website. Now, all you have to do is solve the other 9.
 
-I'll give you a hint for the first password for the bottom row: It's on the main site.
-
-Good luck.
+There are two clues on this webpage. The first clue is next to the "Instructions" button. Enter your answer to this clue in the top text field.
+Enter the other clue in the bottom text field. You'll have to find it yourself.
 
 Also: Unblock popups on this webpage.
+Good luck.
