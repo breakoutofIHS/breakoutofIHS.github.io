@@ -1,11 +1,8 @@
 body {
     background-color: #333333;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    text-align: center;
-    min-height: 100vh;
-    display: flex;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .password {
     background-color: #1a1c1d; 
