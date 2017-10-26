@@ -3,7 +3,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
 }
 .password {
     background-color: #1a1c1d; 
@@ -69,10 +68,4 @@ body {
 {
     color:#dbd2d2;
     text-shadow: 0px -1px 1px #bdb5b4, 0px 1px 1px white;
-}
-
-.center {
-    position: absolute;
-    left 50%;
-    transform: translateX(-50%);
 }
