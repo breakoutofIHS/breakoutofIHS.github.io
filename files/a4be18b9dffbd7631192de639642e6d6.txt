@@ -1,0 +1,30 @@
+I'm thinking of a fruit.
+
+The first part of the password is the first letter of the fruit's name converted from hexidecimal to decimal.
+The second part is the fruit's name, in all capital letters, reversed.
+The third part is the number of vowels that appear in the fruit's name.
+The fourth part is the number of letters that appear before the first vowel in the word.
+The last part is the number of letters in the fruit's name.
+
+This might help: https://www.jdoodle.com/online-java-compiler
+
+Here's a list of fruits that I could be thinking about:
+Apple
+Apricot
+Banana
+Blueberry
+Coconut
+Cantaloupe
+Cherry
+Grape
+Lemon
+Lime
+Mango
+Orange
+Pear
+Pomegranate
+Strawberry
+Tangerine
+Watermelon
+
+Good luck.
